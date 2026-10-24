@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gilbert.villafuerte\\Downloads\\NCFE Code Test\\NCFE Code Test\\Code Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F84512EF-EFF9-4A3E-BE9D-5BCD5019FB36}|Ncfe.CodeTest\\Ncfe.CodeTest.csproj|c:\\users\\gilbert.villafuerte\\downloads\\ncfe code test\\ncfe code test\\code test\\ncfe.codetest\\learnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84512EF-EFF9-4A3E-BE9D-5BCD5019FB36}|Ncfe.CodeTest\\Ncfe.CodeTest.csproj|solutionrelative:ncfe.codetest\\learnerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19FB1FD2-7001-47FF-B4D2-255133175032}|LearnerServiceTest\\LearnerServiceTest.csproj|c:\\users\\gilbert.villafuerte\\downloads\\ncfe code test\\ncfe code test\\code test\\learnerservicetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19FB1FD2-7001-47FF-B4D2-255133175032}|LearnerServiceTest\\LearnerServiceTest.csproj|solutionrelative:learnerservicetest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\gilbert.villafuerte\\Downloads\\NCFE Code Test\\NCFE Code Test\\Code Test\\LearnerServiceTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LearnerServiceTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\gilbert.villafuerte\\Downloads\\NCFE Code Test\\NCFE Code Test\\Code Test\\LearnerServiceTest\\UnitTest1.cs",
+              "RelativeToolTip": "LearnerServiceTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T19:19:51.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LearnerService.cs",
+              "DocumentMoniker": "C:\\Users\\gilbert.villafuerte\\Downloads\\NCFE Code Test\\NCFE Code Test\\Code Test\\Ncfe.CodeTest\\LearnerService.cs",
+              "RelativeDocumentMoniker": "Ncfe.CodeTest\\LearnerService.cs",
+              "ToolTip": "C:\\Users\\gilbert.villafuerte\\Downloads\\NCFE Code Test\\NCFE Code Test\\Code Test\\Ncfe.CodeTest\\LearnerService.cs",
+              "RelativeToolTip": "Ncfe.CodeTest\\LearnerService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T19:14:50.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

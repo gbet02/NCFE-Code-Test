@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.10.12217.157 stable
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ncfe.CodeTest", "Ncfe.CodeTest\Ncfe.CodeTest.csproj", "{F84512EF-EFF9-4A3E-BE9D-5BCD5019FB36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnerServiceTest", "LearnerServiceTest\LearnerServiceTest.csproj", "{19FB1FD2-7001-47FF-B4D2-255133175032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F84512EF-EFF9-4A3E-BE9D-5BCD5019FB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84512EF-EFF9-4A3E-BE9D-5BCD5019FB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84512EF-EFF9-4A3E-BE9D-5BCD5019FB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84512EF-EFF9-4A3E-BE9D-5BCD5019FB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FB1FD2-7001-47FF-B4D2-255133175032}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FB1FD2-7001-47FF-B4D2-255133175032}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FB1FD2-7001-47FF-B4D2-255133175032}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FB1FD2-7001-47FF-B4D2-255133175032}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AF2A244-D91E-4320-92C4-5D26038569E4}
+	EndGlobalSection
+EndGlobal

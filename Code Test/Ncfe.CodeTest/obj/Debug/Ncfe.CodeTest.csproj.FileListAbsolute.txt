@@ -1,0 +1,6 @@
+C:\Users\gilbert.villafuerte\Downloads\NCFE Code Test\NCFE Code Test\Code Test\Ncfe.CodeTest\bin\Debug\Ncfe.CodeTest.dll
+C:\Users\gilbert.villafuerte\Downloads\NCFE Code Test\NCFE Code Test\Code Test\Ncfe.CodeTest\bin\Debug\Ncfe.CodeTest.pdb
+C:\Users\gilbert.villafuerte\Downloads\NCFE Code Test\NCFE Code Test\Code Test\Ncfe.CodeTest\obj\Debug\Ncfe.CodeTest.csproj.AssemblyReference.cache
+C:\Users\gilbert.villafuerte\Downloads\NCFE Code Test\NCFE Code Test\Code Test\Ncfe.CodeTest\obj\Debug\Ncfe.CodeTest.csproj.CoreCompileInputs.cache
+C:\Users\gilbert.villafuerte\Downloads\NCFE Code Test\NCFE Code Test\Code Test\Ncfe.CodeTest\obj\Debug\Ncfe.CodeTest.dll
+C:\Users\gilbert.villafuerte\Downloads\NCFE Code Test\NCFE Code Test\Code Test\Ncfe.CodeTest\obj\Debug\Ncfe.CodeTest.pdb
